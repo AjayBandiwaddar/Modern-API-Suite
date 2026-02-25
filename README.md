@@ -214,4 +214,3 @@ This project is released for research and educational use.
 - [Pydantic](https://pydantic-docs.helpmanual.io/) - Data validation
 - [scikit-learn](https://scikit-learn.org/) - Machine learning
 - [Streamlit](https://streamlit.io/) - Web app framework</content>
-<parameter name="filePath">c:\Users\lenovo\Downloads\FastAPI project\README.md
