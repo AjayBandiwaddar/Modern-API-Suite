@@ -1,4 +1,4 @@
-# FastAPI Projects Collection
+# Modern API Suite
 
 A comprehensive collection of FastAPI applications demonstrating modern web API development, including an e-commerce product management system and a machine learning-powered car price prediction API.
 
@@ -204,11 +204,8 @@ python -m pytest
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is released for research and educational use.
 
-## 📞 Contact
-
-For questions or feedback, please open an issue in this repository.
 
 ---
 
